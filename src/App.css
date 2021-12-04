@@ -1,5 +1,17 @@
 .App {
+  font-family: sans-serif;
   text-align: center;
+  color: white;
+  font-size: 30px;
+  background: radial-gradient(
+    circle at 12.3% 19.3%,
+    rgb(85, 88, 218) 0%,
+    rgb(95, 209, 249) 100.2%
+  );
+  border-radius: 40px;
+  max-width: 900px;
+  padding-top: 10px;
+  padding-bottom: 50px;
 }
 
 .App-logo {

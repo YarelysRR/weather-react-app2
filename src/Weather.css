@@ -1,0 +1,36 @@
+.WeatherForm {
+  text-align: center;
+}
+
+.weather_Details {
+  margin-top: 30px;
+  line-height: 1.5;
+  display: inline-block;
+  text-align: left;
+}
+
+.weather_Details li {
+  list-style-type: circle;
+}
+
+.Input-Box {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid;
+  border-radius: 4px;
+}
+
+.Input-Search {
+  padding: 12px 20px;
+  position: relative;
+  left: 3px;
+}
+
+.Input-Location {
+  padding: 12px 20px;
+  position: relative;
+  left: 5px;
+  background-color: rgb(139, 230, 4);
+}
